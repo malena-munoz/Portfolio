@@ -1,0 +1,20 @@
+*{
+    font-family: inherit;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'General Sans', sans-serif;
+}
+
+:root{
+    --white: rgba(255, 255, 255, 1);
+    --turquoise: rgba(3, 156, 191, 1);
+    --saddle-brown: rgba(140, 79, 4, 1);
+    --gold: rgba(216, 143, 54, 1); 
+    --light-sienna: rgba(140, 100, 65, 1); 
+    --dark-saddle: rgb(46, 28, 13);
+    --black: rgba(0, 0, 0, 1);
+}
+
+
+
